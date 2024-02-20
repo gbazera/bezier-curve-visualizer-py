@@ -1,7 +1,7 @@
 import turtle
 
 turtle.getscreen()
-turtle.pensize(5)
+turtle.pensize(3)
 turtle.color('blue')
 
 p = [
