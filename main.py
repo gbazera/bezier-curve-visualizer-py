@@ -2,6 +2,7 @@ import turtle
 
 turtle.getscreen()
 turtle.pensize(5)
+turtle.color('blue')
 
 p = [
     (-200, -100),
